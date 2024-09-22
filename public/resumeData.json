@@ -1,0 +1,79 @@
+{
+  "main": {
+    "name": "Thandiwe Nqobizitha Mobhanga",
+    "description": "Aspiring Chief Marketing Officer (CMO) with a passion for Digital Marketing, currently studying Tourism and Economics at St Mary’s Secondary School, Mafikeng. Looking to gain experience in the digital marketing space while leveraging creativity, analytical skills, and a strong work ethic",
+    "image": "avatar.png",
+    "bio": "I am a driven high school student from Mafikeng, North West, currently studying Tourism and Economics at St Mary's Secondary School. My passion for Digital Marketing has grown as I actively pursue opportunities to manage social media for local businesses, gaining hands-on experience in content creation, audience engagement, and brand visibility. On the eduKemet platform, I am eager to further expand my digital marketing skills through its gamified learning approach. I see eduKemet as the ideal place to sharpen my abilities while earning badges, points, and recognition—keeping me motivated and engaged as I work toward my goal of becoming a Chief Marketing Officer (CMO). My father named me Nqobizitha, which directly translates to 'Conqueror of enemies' as a result nothing can stand in my way of my success.",
+    "contactmessage": "Leave a message here if you want to get in contact with me.",
+    "email": "nqobi.t.mponya@gmail.com",
+    "phone": "0712345678",
+    "github": "null",
+    "project": "null",
+    "address": {
+      "street": "12738 Lomanyaneng",
+      "city": "Mafikeng",
+      "state": "North West Provice",
+      "zip": "2745"
+    },
+    "website": "null",
+    "resumedownload": "Thandiwe_Resume.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/XTeddyBear187Mp",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/thabo-mponya-6538a219b/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/mollo_thabomponya/",
+        "className": "fa fa-instagram"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I possess a growing proficiency in Digital Marketing, particularly in social media management, content creation, and audience engagement strategies. I have demonstrated strong leadership abilities through my role in school projects and club activities. My creativity allows me to develop innovative marketing campaigns, while what I study in Economics have honed my analytical thinking. I also have excellent communication skills, both written and verbal, making me a well-rounded candidate for marketing-related opportunities.",
+    "education": [
+      {
+        "school": "St' Mary's Secondary School",
+        "degree": "I am currently studying Tourism and Economics",
+        "graduated": "December 2017",
+        "description": "I am  Consistently ranked in the top 10 of the class for Economics and Business Studies, a member of the school's Entrepreneurship Club, and a member of the school's Debating Team."
+      }
+    ],
+    "work": [
+      {
+        "company": "Bahale Codes Software",
+        "title": "Digital Marketing Intern",
+        "years": "1 October 2020 - 1 November 2021",
+        "description": "I worked under the supervision of my Dad, the then CTO in boosting the company's clients' digital footprint. I also worked on the company's website and social media platforms."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Basic Social Media Management",
+        "level": "90%",
+        "xp": "3 year"
+      },
+      {
+        "name": "Entrepreneurship",
+        "level": "85%",
+        "xp": "2 year"
+      },
+      {
+        "name": "Debating",
+        "level": "80%",
+        "xp": "1 year"
+      },
+      {
+        "name": "Netball",
+        "level": "90%",
+        "xp": "3 year"
+      }
+    ]
+  }
+}
